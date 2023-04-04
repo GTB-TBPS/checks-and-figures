@@ -1,6 +1,6 @@
 *****************************************************************************************
 *Code to generate some checks and figures e.g. population pyramids and participation rate
-*Author: I. Law
+*Author: I. Law, B. Sismanidis
 *Example country shown below - please adapt variable names and categories to your survey
 *****************************************************************************************
 
